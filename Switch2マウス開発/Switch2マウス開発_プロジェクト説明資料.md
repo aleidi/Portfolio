@@ -1,4 +1,4 @@
-# 『Starsand Island』Nintendo Switch 2版マウス操作の開発
+# 『Starsand Island』NS2版マウス操作の開発
 
 ## 1. プロジェクト基本情報
 

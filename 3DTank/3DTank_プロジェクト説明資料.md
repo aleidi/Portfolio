@@ -1,4 +1,4 @@
-# 3D Tank ― C++／DirectX 11による3D戦車ゲーム開発
+# C++／DirectX11による3D戦車ゲーム開発
 
 ## 1. プロジェクト基本情報
 
@@ -274,4 +274,4 @@ DirectX 11のリソースやPipeline Stateから、プレイヤー操作、射�
 | 3C／Gameplay | `PlayerController.*`、`PlayerTank.*`、`PlayerCamera.*` |
 | 粒子システム | `ParticleSystem.*`、`Particle_VS.hlsl`、`Particle_GS.hlsl`、`Particle_PS.hlsl` |
 | 簡易カットシーン | `Track.h`、`TrackTransform.*`、`Resource/Configuration/Sequence.csv` |
-| 操作説明 | `Documents/3DTank_操作方法_JA.png` |
+| 操作説明 | `3DTank_操作方法_JA.png` |
