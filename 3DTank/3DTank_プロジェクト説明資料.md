@@ -1,4 +1,4 @@
-# 3D Tank Box ― C++／DirectX 11による3D戦車ゲーム開発
+# 3D Tank ― C++／DirectX 11による3D戦車ゲーム開発
 
 ## 1. プロジェクト基本情報
 
